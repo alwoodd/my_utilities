@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='my_utilities',               # Package name
-    version='1.0.0',                    # Initial version
+    version='1.1.0',                    # Initial version
     author='Dan Alwood',
     author_email='dalwood@yahoo.com',
     description='Common utility functions for local projects',
